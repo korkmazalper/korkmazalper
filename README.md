@@ -57,7 +57,3 @@ I am a passionate Java developer with a diverse skill set in various programming
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=korkmazalper&show_icons=true&theme=radical)
-
-## Snake Game Contribution Graph
-
-![Snake animation](https://github.com/korkmazalper/korkmazalper/blob/output/github-contribution-grid-snake.svg)
