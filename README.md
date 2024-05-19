@@ -5,21 +5,21 @@
 ## About Me
 I am a passionate Java developer with a diverse skill set in various programming languages, frameworks, and tools. My expertise includes:
 
-- **Java**
-- **Python**
-- **C#**
-- **Golang**
-- **HTML/CSS**
-- **Angular**
-- **Camunda**
-- **MySQL**
-- **MongoDB**
-- **Docker**
-- **Git**
-- **Postman**
-- **JIRA**
-- **Maple**
-- **LaTeX**
+- **Java** ☕
+- **Python** 🐍
+- **C#** #️⃣
+- **Golang** 🐹
+- **HTML/CSS** 🌐
+- **Angular** 🔺
+- **Camunda** 🔄
+- **MySQL** 🐬
+- **MongoDB** 🍃
+- **Docker** 🐳
+- **Git** 🔧
+- **Postman** 📬
+- **JIRA** 🗂️
+- **Maple** 🍁
+- **LaTeX** 📄
 
 ## Skills and Technologies
 
