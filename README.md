@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 ## About Me
+
 I am a passionate Java developer with a diverse skill set in various programming languages, frameworks, and tools. My expertise includes:
 
 - **Java** ☕
@@ -24,6 +25,7 @@ I am a passionate Java developer with a diverse skill set in various programming
 ## Skills and Technologies
 
 ### Languages and Frameworks
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,10 +36,12 @@ I am a passionate Java developer with a diverse skill set in various programming
 ![Camunda](https://img.shields.io/badge/Camunda-%23DA4453.svg?style=for-the-badge&logo=camunda&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
+
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
@@ -46,13 +50,14 @@ I am a passionate Java developer with a diverse skill set in various programming
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Contact Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.alperkorkmaz@gmail.com)
 
-## GitHub Stats 
+## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=korkmazalper&show_icons=true&theme=radical)
 
 ## Snake Game Contribution Graph
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/korkmazalper/korkmazalper/blob/output/github-contribution-grid-snake.svg)
