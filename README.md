@@ -9,7 +9,6 @@ I am a passionate Java developer with a diverse skill set in various programming
 - **Java** ☕
 - **Python** 🐍
 - **C#** #️⃣
-- **Golang** 🐹
 - **HTML/CSS** 🌐
 - **Angular** 🔺
 - **Camunda** 🔄
@@ -51,7 +50,7 @@ I am a passionate Java developer with a diverse skill set in various programming
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-korkmaz-54267918/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.alperkorkmaz@gmail.com)
 
 ## GitHub Stats
