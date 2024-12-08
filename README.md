@@ -10,7 +10,7 @@ I am a passionate Java developer with a diverse skill set in various programming
 - **HTML/CSS** 🌐**Angular** 🔺
 - **MySQL** 🐬**MongoDB** 🍃
 - **Docker** 🐳 **Git** 🔧 **Postman** 📬 **JIRA** 🗂️
-- **Maple** 🍁 **LaTeX** 📄 **Camunda** 🔄
+- **Maple** 🍁 **LaTeX** 📄
 
 ## Skills and Technologies
 
