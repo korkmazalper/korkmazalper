@@ -6,11 +6,13 @@
 
 I am a passionate Java developer with a diverse skill set in various programming languages, frameworks, and tools. My experiences include:
 
-- **Java** ☕ **Python** 🐍 **C#** #️⃣
-- **HTML/CSS** 🌐**Angular** 🔺
-- **MySQL** 🐬**MongoDB** 🍃
+- **Java** ☕ 
+- **HTML/CSS**  🔺
+- **MySQL** 🐬
 - **Docker** 🐳 **Git** 🔧 **Postman** 📬 **JIRA** 🗂️
 - **Maple** 🍁 **LaTeX** 📄
+- **Python** 🐍 **C#** #️⃣
+- 🌐**Angular**
 
 ## Skills and Technologies
 
