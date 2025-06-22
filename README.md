@@ -6,12 +6,17 @@
 
 I am a passionate Java developer with a diverse skill set in various programming languages, frameworks, and tools. My experiences include:
 
-- **Java** ☕ **Spring**
-- **HTML/CSS**
-- **MySQL** 🐬
-- **Docker** 🐳 **Git** 🔧 **Postman** 📬 **JIRA** 🗂️
-- **Maple** 🍁 **LaTeX** 📄
-- **Python** 🐍 
+- **Java** ☕ **Spring**  
+- **HTML/CSS**  
+- **MySQL** 🐬  
+- **Docker** 🐳 **Git** 🔧 **Postman** 📬 **JIRA** 🗂️  
+- **Maple** 🍁 **LaTeX** 📄  
+- **Python** 🐍  
+- **LoopBack** 🔄  
+- **TypeScript** 💙  
+- **React** ⚛️  
+- **MongoDB** 🍃
+
 
 ## Skills and Technologies
 
@@ -27,12 +32,13 @@ I am a passionate Java developer with a diverse skill set in various programming
 ![LoopBack](https://img.shields.io/badge/LoopBack-%23007ACC.svg?style=for-the-badge&logo=loopback&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-### Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Maple](https://img.shields.io/badge/Maple-%23FFAB00.svg?style=for-the-badge&logo=maple&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Camunda](https://img.shields.io/badge/Camunda-%23DA4453.svg?style=for-the-badge&logo=camunda&logoColor=white)
