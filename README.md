@@ -41,7 +41,7 @@ I am a passionate Java developer with a diverse skill set in various programming
 
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Maple](https://img.shields.io/badge/Maple-%23FFAB00.svg?style=for-the-badge&logo=maple&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Camunda](https://img.shields.io/badge/Camunda-%23DA4453.svg?style=for-the-badge&logo=camunda&logoColor=white)
+![Maple](https://img.shields.io/badge/Maple-%23FFAB00.svg?style=for-the-badge&logo=maple&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Contact Me
 
